@@ -2,7 +2,6 @@
 #qpy:console
 
 import time
-import figlet
 print ("BEM VINDO")
 print ("criado por:")
 
